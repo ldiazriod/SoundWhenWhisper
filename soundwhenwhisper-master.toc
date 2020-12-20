@@ -1,4 +1,4 @@
 ## Interface: 90002
 ## Author: LDR
 
-soundwhenwhisper.lua
+soundwhenwhisper-master.lua
