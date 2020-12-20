@@ -1,4 +1,4 @@
-# Sound_When_Whisper_AddOn
+# SoundWhenWhisper
 Simple AddOn for World of Warcraft
 
 ## How to install:
